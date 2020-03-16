@@ -8,6 +8,9 @@
     "deploy": "npm run build && cd dist && npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acrylplatform/tx-json-schemas.git"
