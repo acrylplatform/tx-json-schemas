@@ -5,7 +5,7 @@ branches:
   only:
   - master
 script:
-  - npm run build
+  - npm run deploy
 jobs:
   include:
     - stage: npm release
