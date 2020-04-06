@@ -1,6 +1,6 @@
 {
   "name": "@acryl/tx-json-schemas",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/acrylplatform/tx-json-schemas#readme",
   "dependencies": {
-    "@acryl/acryl-transactions": "^3.16.7",
+    "@acryl/acryl-transactions": "^3.16.8",
     "ajv": "^6.10.0"
   },
   "devDependencies": {
